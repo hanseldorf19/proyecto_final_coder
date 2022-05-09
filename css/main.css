@@ -7921,7 +7921,7 @@ form ul li {
 
 .buttonStyle, .buttonStyle2 {
   color: #587a96;
-  width: 20em;
+  width: auto;
   padding: 1em 1em;
   margin: 1em 1em;
   background-color: #91CC00;
@@ -7986,14 +7986,18 @@ form ul li {
 .centrar__Element {
   text-align: center; }
 
-.centrar2 {
-  padding: 0em 15em; }
+.centrar1 {
+  display: flex;
+  justify-content: center; }
 
 .centrar3 {
   padding: 0em 20em; }
 
 .centrar4 {
   padding: 0em 5em; }
+
+.trImg {
+  width: 90%; }
 
 .tittle__NS_1 {
   font-size: 2.5em;
